@@ -6,6 +6,7 @@ obtained from Kaggle. The aim of this bot is to provide accurate and useful info
 about various applications for users.
 
 ▎Features
+
 • App Search: Users can search for their desired application using inlineQuery and receive
 initial information about it.
 
