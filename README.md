@@ -29,6 +29,7 @@ information.
 6. Take advantage of additional features like random facts and date/time information.
 
 ▎Project Information
+
 This project was part of a software engineering course at Semnan University in the 4032
 semester. The main goal of this project was to learn and implement programming skills and
 work with data.
