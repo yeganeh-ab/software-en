@@ -1,5 +1,4 @@
-# software-en
-پروژه ی اول درس مهندسی نرم افزار 
+# software-en 
 ▎README - Google Play Apps Information Bot
 
 This bot is designed and implemented using data related to Google Play applications
